@@ -2,11 +2,83 @@
 <pre-dex-items>
 
     <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TypeANumber/build/intermediates/pre-dexed/debug/classes-eeb6dc60fa15149136e03b79f926e98923a3f61a.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TypeANumber/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TypeANumber/build/intermediates/pre-dexed/debug/classes-5baec269a7e674728fa10819367760de4670141b.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TypeANumber/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ed7a7a05185651f9af41ad93711cb96b66f331c"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TrivialQuest/build/intermediates/pre-dexed/debug/classes-7f81032eb74f5fd6055a46e2e0b7d3c4e3967494.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TrivialQuest/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-7534455a54865c353bd666c5e25d13c17947baa4.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TrivialQuest/build/intermediates/pre-dexed/debug/classes-e3fdb1cb4f86c6325fba2d52b6888b4fc511a868.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TrivialQuest/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
         dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/pre-dexed/debug/classes-73fc440768f7e70229c43beceec4229e3f2db344.jar"
         jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-f49da4702bdbdc2d28e8e252e48285110220960f.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/classes-70b981f6a1e4ff919147be46932b67195202c614.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/CollectAllTheStars2/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-02e6badbd820f8f02ebdda385dc4259411ae7bcb.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/CollectAllTheStars2/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/CollectAllTheStars2/build/intermediates/pre-dexed/debug/classes-a812c1a5f4464c9a98ea082b89e7adf34381f3ba.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/CollectAllTheStars2/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/classes-d207fd7895eda89c058f866609aaffd7e86a1ae1.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ed7a7a05185651f9af41ad93711cb96b66f331c"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TypeANumber/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-703c6332350c1983f837aedd2a9e60cde56b3fc0.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TypeANumber/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/CollectAllTheStars2/build/intermediates/pre-dexed/debug/classes-d072d59493b646a78c252e6bc92e268184bdee2b.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/CollectAllTheStars2/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ed7a7a05185651f9af41ad93711cb96b66f331c"/>
     <item
         dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/pre-dexed/debug/classes-456dcb872f73296047387b484a956648c397d54c.jar"
         jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
@@ -14,11 +86,23 @@
         revision="20.0.0"
         sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
     <item
-        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/pre-dexed/debug/classes-7026554e2dd2dde6d89ffa47991ec9b1f21a802e.jar"
-        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/exploded-aar/BasicSamples.libraries/BaseGameUtils/unspecified/classes.jar"
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TypeANumber/build/intermediates/pre-dexed/debug/classes-5630f7250450b9eec8108dbee92339b0d3af727f.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TypeANumber/build/intermediates/exploded-aar/BasicSamples.libraries/BaseGameUtils/unspecified/classes.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="ffb2595bd7b4225192eb4b6bb1a38f6231428e85"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/CollectAllTheStars2/build/intermediates/pre-dexed/debug/classes-a8c251960779f440a4a3da516efe169f2d0b5a83.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/CollectAllTheStars2/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/classes-b39d7a8a0c9d6b091e52d587512db9479bbc0eac.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
     <item
         dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/pre-dexed/debug/classes-140705d9e8148c12c70c3ffdba5648cef82d1588.jar"
         jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/classes.jar"
@@ -32,10 +116,46 @@
         revision="20.0.0"
         sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
     <item
-        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-7534455a54865c353bd666c5e25d13c17947baa4.jar"
-        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/classes-47f69a5834434d2c7a9e7477968ab70686b0cc1f.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/BasicSamples.libraries/BaseGameUtils/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ffb2595bd7b4225192eb4b6bb1a38f6231428e85"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TypeANumber/build/intermediates/pre-dexed/debug/classes-30623098d458271735065fa465a5930ac6087199.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TypeANumber/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/pre-dexed/debug/classes-7026554e2dd2dde6d89ffa47991ec9b1f21a802e.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/ButtonClicker/build/intermediates/exploded-aar/BasicSamples.libraries/BaseGameUtils/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ffb2595bd7b4225192eb4b6bb1a38f6231428e85"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TrivialQuest/build/intermediates/pre-dexed/debug/classes-d7fd57ce817720ca5c5b5e5dc448205740ea0f44.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TrivialQuest/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ed7a7a05185651f9af41ad93711cb96b66f331c"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/CollectAllTheStars2/build/intermediates/pre-dexed/debug/classes-710c6deaa95f105426b5f1ef1063d34025655919.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/CollectAllTheStars2/build/intermediates/exploded-aar/BasicSamples.libraries/BaseGameUtils/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ffb2595bd7b4225192eb4b6bb1a38f6231428e85"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TrivialQuest/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-112633c9eba516708c8722d7288c3a4af03a74a9.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TrivialQuest/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TrivialQuest/build/intermediates/pre-dexed/debug/classes-ded0ca06e55a78bb3bdd65bcd85b64c6d498eb02.jar"
+        jar="/home/ricardo/github_ricardo/android-basic-samples/BasicSamples/TrivialQuest/build/intermediates/exploded-aar/BasicSamples.libraries/BaseGameUtils/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ffb2595bd7b4225192eb4b6bb1a38f6231428e85"/>
 
 </pre-dex-items>
