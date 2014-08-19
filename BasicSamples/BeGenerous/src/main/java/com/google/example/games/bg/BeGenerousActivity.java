@@ -268,7 +268,7 @@ public class BeGenerousActivity extends BaseGameActivity implements
                 "Do you want to accept the following requests?\n\n");
 
         for (GameRequest request : requests) {
-            retVal.append("  ¥ A "
+            retVal.append("  A "
                     + (request.getType() == GameRequest.TYPE_GIFT ? "gift"
                             : "game request") + " from "
                     + request.getSender().getDisplayName() + "\n");
